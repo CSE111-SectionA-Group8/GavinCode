@@ -1,0 +1,10 @@
+/mnt/c/Users/gesta/Documents/GitHub/Banana/build/CMakeFiles/Banana.dir
+/mnt/c/Users/gesta/Documents/GitHub/Banana/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/gesta/Documents/GitHub/Banana/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/gesta/Documents/GitHub/Banana/build/_deps/cli11_proj-build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/gesta/Documents/GitHub/Banana/build/_deps/cli11_proj-build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/gesta/Documents/GitHub/Banana/build/_deps/cli11_proj-build/fuzz/CMakeFiles/edit_cache.dir
+/mnt/c/Users/gesta/Documents/GitHub/Banana/build/_deps/cli11_proj-build/fuzz/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/gesta/Documents/GitHub/Banana/build/_deps/cli11_proj-build/src/CMakeFiles/CLI11.dir
+/mnt/c/Users/gesta/Documents/GitHub/Banana/build/_deps/cli11_proj-build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/gesta/Documents/GitHub/Banana/build/_deps/cli11_proj-build/src/CMakeFiles/rebuild_cache.dir
